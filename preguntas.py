@@ -62,7 +62,7 @@ def pregunta_02():
     # Imprima la precisión (score) del clasificador en el conjunto de datos de prueba
     print(round(knn.score(X_test, y_test), 4))
 
-pregunta_02()
+
 def pregunta_03():
     """
     Complete el código presentado a continuación.
