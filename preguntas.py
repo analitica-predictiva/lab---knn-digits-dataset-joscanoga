@@ -16,6 +16,9 @@ def pregunta_01():
     Complete el código presentado a continuación.
     """
 
+
+
+
     # Cargue el dataset digits
     digits = datasets.load_digits()
 
